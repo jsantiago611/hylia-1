@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
   "name": "The Parent's Progress",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "shortDesc": "The parent's progress is a blog for Christian parents who want to level up their parenting with biblical advice, posts, book summaries, and digital tools.",
   "url": "https://infallible-cray-f9aa4b.netlify.app",
-  "authorEmail": "hi@piccalil.li",
-  "authorHandle": "@piccalilli_",
-  "authorName": "Andy Bell",
+  "authorEmail": "",
+  "authorHandle": "",
+  "authorName": "Jonathan",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
+  "maxPostsPerPage": 7,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "faviconPath": "/images/favicon.png"
 }
