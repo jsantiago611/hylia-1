@@ -5,7 +5,16 @@
   font-weight: 700;
   font-display: swap;
   src: local('Lora Bold'), local('Lora-Bold'),
-    url('/fonts/Relative-Bold.ttf') format('woff');
+    url('/fonts/Relative-Bold.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Lora'), local('Lora'),
+    url('/fonts/Relative-Book.ttf') format('opentype');
 }
 
 body {
