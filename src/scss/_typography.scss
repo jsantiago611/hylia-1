@@ -17,6 +17,15 @@
     url('/fonts/Relative-Book.woff2') format('woff2');
 }
 
+@font-face {
+  font-family: 'Cambon';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Cambon'), local('Cambon'),
+    url('/fonts/Cambon-Regular.woff2') format('woff2');
+}
+
 body {
   // Strip the unit off the size ratio to generate a line height
   $line-height: get-size(600);
